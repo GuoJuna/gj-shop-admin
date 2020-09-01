@@ -1,6 +1,7 @@
 # vue-admin-template
 
 > 这是 gj-shop 的管理后台。它只包含了 Element UI & axios & iconfont & permission control & lint。
+
 [后台地址](https://github.com/GuoJuna/gj-shop)
 
 ## Build Setup
