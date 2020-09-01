@@ -1,6 +1,10 @@
-# vue-admin-template
+# shop-admin
 
-> 这是 gj-shop 的管理后台。它只包含了 Element UI & axios & iconfont & permission control & lint。
+> 这是 gj-shop 的管理后台。它包含了 Element UI & axios & iconfont & permission control & lint。
+
+后端基于SpringBoot+SpringCloud+MybatisPlus+Redis
+  
+前端使用Vue+element-ui+axios+node.js 
 
 [后台地址](https://github.com/GuoJuna/gj-shop)
 
